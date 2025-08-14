@@ -16,7 +16,7 @@ A simple Mineflayer bot designed to work on the It’s Jerry and Harry’s Minec
 
 ## Setup
 1. Clone or download the repository
-2. git clone https://github.com/fqhy/farmking-bot
+2. git clone https://github.com/fqhy/farmking-bot.git
 3. cd farmking-bot
 # Install dependencies
 1. npm install
