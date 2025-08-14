@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "statistics_channel_id": "id",
+  "username": "email",
+  "reconnect_delay_ms": 60000,
+  "nuke": true
+}
