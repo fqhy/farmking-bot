@@ -1,6 +1,6 @@
 # Jerry and Harry Farm King Bot
 
-A simple Mineflayer bot designed to work on the It’s Jerry and Harry’s Minecraft server. It connects to the  server and automatically farms tall grass if enabled. The bot also reports server statistics to a designated Discord channel.
+A simple Mineflayer bot designed to work on the It’s Jerry and Harry’s Minecraft server. It connects to the server, proceeds to Farm King and automatically farms grass if enabled. The bot also reports server statistics to a designated Discord channel.
 
 ## Features
 1. Automatically connects to the server.
