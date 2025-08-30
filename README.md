@@ -5,7 +5,7 @@ A simple Mineflayer bot designed to work on the It’s Jerry and Harry’s Minec
 ## Features
 1. Automatically connects to the server.
 2. Switches from the lobby to the farmking server if necessary.
-3. Optional nuke mode to automatically break all nearby grass from its spawn location.
+3. Optional nuke mode to automatically break all nearby grass from its spawn location (bannable in long run)
 4. Posts and updates a statistics message in a Discord channel.
 5. Automatically reconnects if kicked or disconnected.
 
